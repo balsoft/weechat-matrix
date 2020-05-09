@@ -287,7 +287,7 @@ def hook_commands():
 
     W.hook_command(
         # Command name and short description
-        "reply",
+        "rep",
         "reply to a message",
         # Synopsis
         ('<event-id>[:"<message-part>"] [<reply>]'),
